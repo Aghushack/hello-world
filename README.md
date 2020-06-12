@@ -1,2 +1,2 @@
 # hello-world
-Beginner repository
+1.baru belajar
